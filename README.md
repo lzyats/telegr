@@ -1,2 +1,2 @@
 # telegr
-my.telegr
+电报群项目
